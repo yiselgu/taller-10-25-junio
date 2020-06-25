@@ -18,6 +18,8 @@
 
 
 8.	Pantallazo revert
+ ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/revert.png "Commit agregar index-css")
+
 9.	Pantallazo git reset --soft
 10.	Pantallazo Commit borrando todos los archivos 
 11.	Pantallazo Reset --hard
