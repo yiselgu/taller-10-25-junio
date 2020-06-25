@@ -3,9 +3,11 @@
  ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/crear%20repositorio.PNG "creacion repositorio")
 
 2.	Commit inicial con un archivo README
-
-
+ ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/commit%20con%20archivo%20README.png "Commit inicial con un archivo README")
 3.	Crear rama por colaborador
+ ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/crear%20rama%20propia.png"Commit iCrear rama por colaborador")
+
+
 
 
 4.	Crear enlaces a páginas de segundo y tercer nivel
