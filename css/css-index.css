@@ -1,0 +1,158 @@
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+    height: 80px;}
+  
+
+  /* Enlaces de navegación */
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;} /* Si quieres que el texto esté centrado*/
+  
+
+  /* Agregue un color de fondo al pasar el mouse */
+  .navbar a:hover {
+    background-color: #000;}
+  
+
+  .navbar a.active {
+    background-color: #4CAF50;}
+  
+  
+  @media screen and (max-width: 500px) 
+  {.navbar a {
+      float: none;
+      display: flex;
+      width: 100%;
+      text-align: left;} /* Si desea que el texto se alinee a la izquierda en pantallas pequeñas */}
+  
+
+  .topnav-center{
+    float: right; 
+    position: relative;}
+
+
+  .topnav-center a{
+    margin-top: 15px;
+    margin-left: 10px;}
+  
+
+  #footer{
+   /* position: sticky;  SIMPRE, PARA QUE PERMANEZCA EL PIE DE PAGINA*/
+    display: flex;
+    margin-top:20px;
+    background-color: #555;
+    color: lightgray;
+    padding: 5px; /*ANCHO DEL PIE DE PAGINA*/
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+  .img-logo{
+    width:80px; 
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;}
+
+
+.p1{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsla(0, 0%, 0%, 1);
+    padding: 20px;
+    text-align: center;
+    font-size: xx-large;}
+
+
+.p2{font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:#5F6F81;
+  padding: 20px;
+  text-align: center;
+  font-size: larger;}
+
+
+.action-button{
+  padding: 15px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  color: #000;
+  margin:20px; }
+
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #999999 );
+	background-color:#999999;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 10px;
+  text-decoration:none;}
+
+
+.myButton:hover {
+	background:linear-gradient(to bottom, #555 5%, #555 100%);
+  background-color:#555;}
+
+
+.myButton:active {
+	position:relative;
+	top:1px;}
+
+
+#video{
+  display: flex;
+  padding-top: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;}
+
+
+.p3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-size: larger;
+  /*margin-left:10% ;                /* pocicion del texto de izquierda a derecha*/ 
+  padding: 1%;                      /*ancho del recuadro*/
+  background-color: #8EA3BF;     /*color del recuadro*/
+  border:solid #ffffff;}          si le quiero dar borde al recuadro*/
+
+  .compu1{
+    width:40%; 
+    float: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;}
+   
+.p4{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-size: larger;
+  margin-right: 50%;               /* pocicion del texto de izquierda a derecha*/ 
+  padding: 1%;                      /*ancho del recuadro*/
+  background-color: #BACBD9;}     /*color del recuadro*/
+ /*border:solid #730202;}          si le quiero dar borde al recuadro*/
+    
+.compu1{
+  width:40%; 
+  float: none;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;}  
+                  
+
