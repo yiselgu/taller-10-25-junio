@@ -6,17 +6,17 @@
  ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/commit%20con%20archivo%20README.png "Commit inicial con un archivo README")
 
 3.	Crear rama por colaborador
- ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/crear%20rama%20propia.png"Commit Crear rama por colaborador")
+ ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/crear%20rama%20propia.png "Commit Crear rama por colaborador")
 
 4.	Crear enlaces a páginas de segundo y tercer nivel
 
 
 5.	Commit Agregar index
 6.	Commit Agregar carpeta css
- ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/commit%20agregar%20css%20y%20index.png"Commit agregar index-css")
-
-
 7.	Pantallazo primeros commits
+ ![alt text](https://github.com/yiselgu/taller-10-25-junio/blob/yisel/Imagenes/capturas/commit%20agregar%20css%20y%20index.png "Commit agregar index-css")
+
+
 8.	Pantallazo revert
 9.	Pantallazo git reset --soft
 10.	Pantallazo Commit borrando todos los archivos 
